@@ -1,0 +1,2 @@
+https://orlovvalentino.github.io/bookingpreview/cluster.svg
+https://orlovvalentino.github.io/bookingpreview/json/cars.json
